@@ -1,0 +1,6 @@
+*.swp
+*key.json
+test
+*.egg-info
+.idea
+*__pycache__*
